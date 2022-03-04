@@ -44,3 +44,4 @@ ocr_env/
 ehthumbs.db
 Thumbs.db
 *.pyc
+files/image_pdfs/.DS_Store
